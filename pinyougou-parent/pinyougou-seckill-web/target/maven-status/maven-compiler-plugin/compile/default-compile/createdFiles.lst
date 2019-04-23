@@ -1,0 +1,4 @@
+com\pinyougou\user\controller\SeckillGoodsController.class
+com\pinyougou\user\controller\PayController.class
+com\pinyougou\user\service\UserDetailServiceImpl.class
+com\pinyougou\user\controller\SeckillOrderController.class
